@@ -151,6 +151,10 @@ body {
     background-position: center;
 }
 
+.sub-title h2 {
+    background-color: rgb(15, 198, 198);
+}
+
 .surf {
     display: flex;
     align-items: flex-end;

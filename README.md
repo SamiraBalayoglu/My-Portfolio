@@ -22,7 +22,7 @@ Contact section contains:
 - Spotify
 
 ## Github page
-Use the [link](https://samirabalayoglu.github.io/my-portfolio/) to access the page on Github.
+Use the [https://samirabalayoglu.github.io/My-Portfolio/ to access the page on Github.
 
 ## Home Page Screenshot
 
